@@ -1,11 +1,12 @@
 # Detecção de Entregas em Atraso - DataCo Global
-<img src=https://i.ibb.co/FbkZDPw/fraude.png>
+<img src=https://i.ibb.co/Hq1pc1f/navio.png>  
+<sub>Fonte: <a href="https://br.pinterest.com/pin/634726759305697560/">Pinterest</a></sub>
 
 ## 📌 Descrição do Projeto
-Este repositório é o coração do projeto de analytics da DataCo Global, onde mergulhamos profundamente nos dados para desvendar as operações da empresa e otimizar seu desempenho. Nosso foco principal foi na detecção de fraudes, visando salvar a empresa de perdas significativas e impulsionar sua eficiência operacional.
+Este repositório é o coração do projeto de analytics da DataCo Global, onde mergulhamos profundamente nos dados para desvendar as operações da empresa e otimizar seu desempenho. Nosso foco principal foi na detecção de entregas em atraso, podendo impactar diretamente a satisfação do cliente, gerando implicações financeiras negativas à longo prazo, como perda de reputação e perda de mercado.
 
-📄 [Veja a apresentação do projeto](https://github.com/ejunior029/supplyChain_fraud_prediction/blob/master/reports/Apresenta%C3%A7%C3%A3o%20-%20%20DataCo%20Global.pdf)  
-📄 [Veja o notebook do case fraude](https://github.com/ejunior029/supplyChain_fraud_prediction/blob/master/notebooks/Fraude_Supply_Chain.ipynb)
+📄 [Veja a apresentação do projeto](https://github.com/ejunior029/supplyChain_late_deliveries/blob/main/reports/Apresenta%C3%A7%C3%A3o%20-%20%20DataCo%20Global.pdf)  
+📄 [Veja o notebook do case de entregas atrasadas](https://github.com/ejunior029/supplyChain_late_deliveries/blob/main/notebooks/Late_Deliveries_Supply_Chain.ipynb)
 
 ## 💼 Entendimento do Negócio
 
